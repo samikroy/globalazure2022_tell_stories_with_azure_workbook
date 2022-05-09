@@ -1,0 +1,2 @@
+# globalazure2022_tell_stories_with_azure_workbook
+globalazure2022_tell_stories_with_azure_workbook
